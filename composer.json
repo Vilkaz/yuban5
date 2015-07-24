@@ -1,0 +1,14 @@
+{
+    "name": "vk/yuban4",
+    "require": {
+        "smarty/smarty": "^3.1",
+        "twbs/bootstrap": "^3.3",
+        "panique/huge": "^3.1"
+    },
+    "authors": [
+        {
+            "name": "vk",
+            "email": "vilius.kukanauskas@mydata.de"
+        }
+    ]
+}
